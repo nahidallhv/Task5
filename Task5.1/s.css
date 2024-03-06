@@ -1,0 +1,141 @@
+
+
+
+body{background-color: rgb(215, 227, 158);
+    background-image: url(snake1.jpg);
+    background-repeat: no-repeat;
+background-position: center center ;
+background-attachment: local;
+padding: 25%;
+background-size: 100%;
+}
+
+.img h2{
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+  font-style: normal;
+  font-size: 70px;
+position: absolute;
+top: 80px;
+left: 470px;
+width: 200px;
+color: darkgoldenrod;
+
+}
+.a{
+    
+font-family: "Anta", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 40px;
+position: absolute;
+top: 320px;
+left: 53%;
+transform: translate(-55%, -55%);
+font-weight: bold;
+color: azure;
+
+}
+.b{
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 27px;
+    position: absolute;
+top: 500px;
+left: 800px;
+transform: translate(-55%, -55%);
+color: azure;
+}
+.c{
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 35px;
+    color: darkslategray;
+    text-shadow: 2px 2px 2px rgb(99, 101, 101);
+
+}
+button{
+padding: 20px 30px;
+font-size: 25px;
+background-color: darkorange;
+color: azure;
+border: none;
+border-radius: 15px;
+position: absolute;
+bottom: 5px;
+left: 50%;
+transform: translate(-55%);
+box-shadow: 0px 0px 5px azure;
+
+}
+.img2 h1{
+    color: rgb(59, 60, 60);
+    position: absolute;
+    top: 130%;
+    left: 50%;
+    font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  text-shadow: 2px 2px 2px rgb(57, 55, 55);
+
+}
+
+
+.d{ 
+    color: rgb(48, 50, 50);
+    font-family: "Concert One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+    position: absolute;
+    top: 150%;
+    left: 3%
+}
+.e{ 
+position: absolute;
+top: 170%;
+left: 25%;
+}
+.img3 h1{
+    color: rgb(59, 60, 60);
+    position: absolute;
+    top: 250%;
+    left: 48%;
+    font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  text-shadow: 2px 2px 2px rgb(57, 55, 55);
+}
+.t{
+    position: absolute;
+    top: 290%;
+    left: 25%;  
+}
+
+.f{
+    color: rgb(48, 50, 50);
+    font-family: "Concert One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    position: absolute;
+top: 270%;
+    left: 10%; 
+}
+
+
+
+
+
+
+
+
+
+  
+
+
+
